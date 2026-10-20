@@ -31,7 +31,7 @@
 A clean, Vercel-style dashboard for all your local projects—complete with instant Dark & Light theme switching:
 
 <div align="center">
-  <video src="Project_Dashboard_preview.mp4" controls autoplay loop muted playsinline width="100%"></video>
+  <img src="Project_Dashboard_preview.gif" alt="Developer Vault Project Dashboard Preview" width="100%" />
 </div>
 
 
