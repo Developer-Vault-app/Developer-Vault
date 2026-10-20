@@ -112,5 +112,5 @@ Developer Vault is a work in progress built from real daily workflow pain, and y
 * **Have a feature idea, feedback, or found one of the hidden easter eggs?** Drop a post in [**Discussions**](https://github.com/Developer-Vault-app/Developer-Vault/discussions)!
 
 <div align="center">
-  <sub>Built by <b>JonathanW</b></sub>
+  <sub>Built by <b>Jonathan Koekemoer</b></sub>
 </div>
