@@ -18,7 +18,7 @@
     <a href="#-feedback-bugs--easter-egg-hunters"><b>Feedback</b></a>
   </p>
 
-  ![Version](https://img.shields.io/badge/version-0.1.6--beta-2563eb?style=flat-square)
+  ![Version](https://img.shields.io/badge/version-0.1.7--beta-2563eb?style=flat-square)
   ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Android%20%28Alpha%29-16a34a?style=flat-square)
   ![Architecture](https://img.shields.io/badge/local--first-your%20code%20stays%20on%20disk-ea580c?style=flat-square)
 
@@ -90,7 +90,7 @@ One rule I refuse to break while building Developer Vault is **always having fun
 
 ## 🎟️ Grab the Public Beta (Free 30-Day Key)
 
-Developer Vault is currently in **Public Beta (`v0.1.6`)** for **Windows** (with an experimental **Android Alpha** build also available for those interested).
+Developer Vault is currently in **Public Beta (`v0.1.7`)** for **Windows** (with an experimental **Android Alpha** build also available for those interested).
 
 During the Public Beta, access is **100% free** using the 30-day GitHub beta invite code below:
 
