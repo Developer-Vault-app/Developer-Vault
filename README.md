@@ -102,6 +102,9 @@ During the Public Beta, access is **100% free** using the 30-day GitHub beta inv
 DV-GITHUB-BETA
 ```
 
+> [!NOTE]
+> **Note on Windows SmartScreen:** Because this is an early indie beta release and isn't digitally signed with a commercial certificate yet, Windows may show an *"Unknown Publisher"* warning during installation. To run the installer, click **More info** and then **Run anyway**.
+
 ---
 
 ## 💬 Feedback, Bugs & Easter Egg Hunters
